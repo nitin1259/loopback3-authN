@@ -1,0 +1,17 @@
+[
+    {
+    "strategy":"Basic",
+    "description":"Basic Authentication Strategy",
+    "enabled": false
+},
+{
+    "strategy":"Token",
+    "description":"Token based Authentication Strategy",
+    "enabled": true
+},
+{
+    "strategy":"Certificate",
+    "description":"Certificate based Authentication Strategy",
+    "enabled": false
+}
+]

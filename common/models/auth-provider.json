@@ -1,0 +1,27 @@
+{
+  "name": "authProvider",
+  "plural": "authProviders",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "configuration": {
+      "type": "string",
+      "required": true
+    },
+    "isEnabled": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

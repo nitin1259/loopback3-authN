@@ -1,0 +1,10 @@
+[
+    {
+    "name":"HS256",
+    "enabled": false
+},
+{
+    "name":"HS384",
+    "enabled": true
+}
+]

@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "postgreDS": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "loopback3authn",
+    "username": "postgres",
+    "password": "p@perCl1p",
+    "name": "postgreDS",
+    "connector": "postgresql"
+  }
+}

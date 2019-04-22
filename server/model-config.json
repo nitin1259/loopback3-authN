@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "sources": [
+      "../common/models",
+      "./models"
+    ]
+  },
+  "localuser": {
+    "dataSource": "postgreDS",
+    "public": true
+  },
+  "authstrategies": {
+    "dataSource": "postgreDS",
+    "public": true
+  },
+  "jwtalgorithm": {
+    "dataSource": "postgreDS",
+    "public": true
+  },
+  "authProvider": {
+    "dataSource": "postgreDS",
+    "public": true
+  }
+}
